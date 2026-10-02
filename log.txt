@@ -1,0 +1,575 @@
+=================================================================
+SHOPIFY BATCH SITE & CAPTCHA TEST RUN
+Started at: 2026-10-02 17:52:34
+Total Sites: 50
+Test Card: 5456150015507529|03|2028|166
+Endpoint: http://127.0.0.1:8000/api/checkout
+=================================================================
+
+--- [#03/50] 132461-96.myshopify.com ---
+Timestamp: 2026-10-02 17:52:36
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#04/50] 1441-wc-vip.myshopify.com ---
+Timestamp: 2026-10-02 17:52:36
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#05/50] 1776-industries-llc.myshopify.com ---
+Timestamp: 2026-10-02 17:52:36
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#01/50] 0be8cb-53.myshopify.com ---
+Timestamp: 2026-10-02 17:52:36
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#02/50] 113a8f-4f.myshopify.com ---
+Timestamp: 2026-10-02 17:52:36
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#08/50] 1lss-store.myshopify.com ---
+Timestamp: 2026-10-02 17:52:38
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#07/50] 1ab4ab.myshopify.com ---
+Timestamp: 2026-10-02 17:52:38
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#06/50] 18bhyc-zn.myshopify.com ---
+Timestamp: 2026-10-02 17:52:38
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#10/50] 3duxdesign.myshopify.com ---
+Timestamp: 2026-10-02 17:52:38
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#09/50] 2d0369-6f.myshopify.com ---
+Timestamp: 2026-10-02 17:52:38
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#14/50] a7ebaa.myshopify.com ---
+Timestamp: 2026-10-02 17:52:40
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#12/50] 5a655b-27.myshopify.com ---
+Timestamp: 2026-10-02 17:52:40
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#11/50] 4ad7f7.myshopify.com ---
+Timestamp: 2026-10-02 17:52:40
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#13/50] 7c1704.myshopify.com ---
+Timestamp: 2026-10-02 17:52:40
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#15/50] abathhouse.myshopify.com ---
+Timestamp: 2026-10-02 17:52:40
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#16/50] ac2t.myshopify.com ---
+Timestamp: 2026-10-02 17:52:42
+Status: CONNECTION_ERROR
+Duration: 2.02s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#19/50] act-acre-uk.myshopify.com ---
+Timestamp: 2026-10-02 17:52:42
+Status: CONNECTION_ERROR
+Duration: 2.02s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#18/50] acoustic-panels-canada.myshopify.com ---
+Timestamp: 2026-10-02 17:52:42
+Status: CONNECTION_ERROR
+Duration: 2.02s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#20/50] affcf2.myshopify.com ---
+Timestamp: 2026-10-02 17:52:42
+Status: CONNECTION_ERROR
+Duration: 2.01s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#17/50] acmesmokedfish.com ---
+Timestamp: 2026-10-02 17:52:42
+Status: CONNECTION_ERROR
+Duration: 2.02s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#24/50] alessia-cara.myshopify.com ---
+Timestamp: 2026-10-02 17:52:44
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#23/50] alchemy-merch.myshopify.com ---
+Timestamp: 2026-10-02 17:52:44
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#21/50] aglitterylifeplans.com ---
+Timestamp: 2026-10-02 17:52:44
+Status: CONNECTION_ERROR
+Duration: 2.06s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#25/50] alma-records.myshopify.com ---
+Timestamp: 2026-10-02 17:52:44
+Status: CONNECTION_ERROR
+Duration: 2.06s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#22/50] airdogusa.myshopify.com ---
+Timestamp: 2026-10-02 17:52:44
+Status: CONNECTION_ERROR
+Duration: 2.06s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#27/50] ambi-skincare.myshopify.com ---
+Timestamp: 2026-10-02 17:52:46
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#29/50] animalsasleaders.org ---
+Timestamp: 2026-10-02 17:52:46
+Status: CONNECTION_ERROR
+Duration: 2.01s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#26/50] aloha-dev.myshopify.com ---
+Timestamp: 2026-10-02 17:52:46
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#30/50] annika-martin.myshopify.com ---
+Timestamp: 2026-10-02 17:52:46
+Status: CONNECTION_ERROR
+Duration: 2.01s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#28/50] american-baitworks-dev.myshopify.com ---
+Timestamp: 2026-10-02 17:52:46
+Status: CONNECTION_ERROR
+Duration: 2.01s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#33/50] aqua-bound.myshopify.com ---
+Timestamp: 2026-10-02 17:52:48
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#32/50] apologeticspress.myshopify.com ---
+Timestamp: 2026-10-02 17:52:48
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#34/50] aramara-beauty.myshopify.com ---
+Timestamp: 2026-10-02 17:52:48
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#31/50] anzula.myshopify.com ---
+Timestamp: 2026-10-02 17:52:48
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#35/50] arccos-golf-uk.myshopify.com ---
+Timestamp: 2026-10-02 17:52:48
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#38/50] ashandstoneskin.myshopify.com ---
+Timestamp: 2026-10-02 17:52:50
+Status: CONNECTION_ERROR
+Duration: 2.02s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#37/50] artstarphilly.myshopify.com ---
+Timestamp: 2026-10-02 17:52:50
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#39/50] atmosfx.myshopify.com ---
+Timestamp: 2026-10-02 17:52:50
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#36/50] artofmanliness.myshopify.com ---
+Timestamp: 2026-10-02 17:52:50
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#40/50] averagesucks.myshopify.com ---
+Timestamp: 2026-10-02 17:52:50
+Status: CONNECTION_ERROR
+Duration: 2.04s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#43/50] baby-box-llcc.myshopify.com ---
+Timestamp: 2026-10-02 17:52:52
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#45/50] babymetal-official.myshopify.com ---
+Timestamp: 2026-10-02 17:52:52
+Status: CONNECTION_ERROR
+Duration: 2.02s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#42/50] azoproducts.myshopify.com ---
+Timestamp: 2026-10-02 17:52:52
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#44/50] babybottlebrushbib.com ---
+Timestamp: 2026-10-02 17:52:52
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#41/50] ayannadenise.myshopify.com ---
+Timestamp: 2026-10-02 17:52:52
+Status: CONNECTION_ERROR
+Duration: 2.05s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#48/50] bambushop.myshopify.com ---
+Timestamp: 2026-10-02 17:52:54
+Status: CONNECTION_ERROR
+Duration: 2.02s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#49/50] barbarakarnesbooks.myshopify.com ---
+Timestamp: 2026-10-02 17:52:54
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#47/50] bamboo-bamboo.myshopify.com ---
+Timestamp: 2026-10-02 17:52:54
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#46/50] badkneests.myshopify.com ---
+Timestamp: 2026-10-02 17:52:54
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+--- [#50/50] barbarapersing.com ---
+Timestamp: 2026-10-02 17:52:54
+Status: CONNECTION_ERROR
+Duration: 2.03s
+Message: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError("HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it"))
+Captcha Detected: NO
+Full Response:
+{
+  "error": "HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/checkout (Caused by NewConnectionError(\"HTTPConnection(host='127.0.0.1', port=8000): Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it\"))"
+}
+
+
+=================================================================
+FINAL SUMMARY OF RESULTS
+=================================================================
+Total Sites Tested: 50
+Captcha Sites: 0
+Store Locked / Password: 0
+Reached Gateway / Declined: 0
+Other / Errors / No Products: 50
+
+--- SITES REQUIRING CAPTCHA ---
+  None
+
+--- SITES PASSWORD PROTECTED / LOCKED ---
+
+--- SITES REACHED GATEWAY / PROCESSED ---
+=================================================================
